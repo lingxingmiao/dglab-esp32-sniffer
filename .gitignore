@@ -1,0 +1,20 @@
+# 抓包日志
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Arduino / ESP32 build
+build/
+*.bin
+*.elf
+*.hex
+
+# 系统/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+gh_login_*.txt

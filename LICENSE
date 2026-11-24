@@ -1,0 +1,41 @@
+版权声明 / COPYRIGHT NOTICE
+================================================================
+
+本项目 dglab-esp32-sniffer （以下简称"本软件"）为蓝牙协议学习与调试用途的
+研究性作品。
+
+【协议与商标版权】
+DG-LAB / Dungeon Lab（地牢实验室）以及相关 App 的蓝牙协议、设备名称、
+服务与特征 UUID、商标、固件及应用程序之全部权利，均归 DG-LAB 官方
+（Dungeon Lab）及其 App 作者所有。本软件中包含的协议信息系通过公开渠道
+与逆向分析整理，仅用于个人学习与互操作性研究。本软件与 DG-LAB 官方
+无任何隶属、授权或背书关系。
+
+【本软件代码】
+本软件的代码部分按下列非商用条款提供，不主张任何作者署名。
+
+【使用限制 —— 严禁商用】
+1. 本软件仅供个人学习、研究、调试与非商业性娱乐使用。
+2. 严禁将本软件（或其任何部分、衍生作品）用于任何商业目的，
+   包括但不限于：出售、出租、付费提供服务、商业培训、
+   集成进商业产品、或以任何形式获取经济利益。
+3. 严禁使用本软件干扰、攻击、未授权访问他人的设备或服务。
+4. 使用者须自行遵守所在国家或地区的法律法规。
+
+【免责声明】
+本软件按"现状"提供，不提供任何明示或暗示的担保。因使用本软件造成的
+任何损失、设备损坏或法律责任，作者不承担任何责任。
+
+【授权】
+在遵守上述限制的前提下，允许个人为学习研究目的复制、修改和使用本软件，
+并须保留本版权声明。任何商业使用均需事先取得 DG-LAB 官方及相关版权方
+的书面许可。
+
+----------------------------------------------------------------
+COPYRIGHT NOTICE (English summary)
+----------------------------------------------------------------
+All rights to the DG-LAB protocols, trademarks, firmware and apps belong to
+DG-LAB (Dungeon Lab) and its app authors. STRICTLY FOR PERSONAL,
+NON-COMMERCIAL, EDUCATIONAL USE ONLY. Commercial use of any kind is
+prohibited without prior written permission from the copyright holders.
+Provided "AS IS", without warranty of any kind.
